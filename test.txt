@@ -1,9 +1,5 @@
 It is for only commit massage
 Happy new year
-<<<<<<< .merge_file_3Xg5PS
-SD
-=======
-Sayan Das
->>>>>>> .merge_file_ksNFYY
+rette
 yellow
 
